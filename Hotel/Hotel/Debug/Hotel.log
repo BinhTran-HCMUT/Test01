@@ -1,0 +1,5 @@
+﻿  Hotel.cpp
+C:\Users\DELL\source\repos\Hotel\Hotel\Hotel.cpp(16,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL\source\repos\Hotel\Hotel\Hotel.cpp(18,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL\source\repos\Hotel\Hotel\Hotel.cpp(20,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Hotel.vcxproj -> C:\Users\DELL\source\repos\Hotel\Debug\Hotel.exe

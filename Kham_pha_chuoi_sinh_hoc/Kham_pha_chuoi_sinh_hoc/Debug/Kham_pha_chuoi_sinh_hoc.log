@@ -1,0 +1,5 @@
+﻿  Solution.cpp
+C:\Users\DELL\source\repos\Kham_pha_chuoi_sinh_hoc\Kham_pha_chuoi_sinh_hoc\Solution.cpp(7,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\source\repos\Kham_pha_chuoi_sinh_hoc\Kham_pha_chuoi_sinh_hoc\Solution.cpp(36,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\source\repos\Kham_pha_chuoi_sinh_hoc\Kham_pha_chuoi_sinh_hoc\Solution.cpp(38,23): warning C4018: '<': signed/unsigned mismatch
+  Kham_pha_chuoi_sinh_hoc.vcxproj -> C:\Users\DELL\source\repos\Kham_pha_chuoi_sinh_hoc\Debug\Kham_pha_chuoi_sinh_hoc.exe
